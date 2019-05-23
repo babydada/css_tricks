@@ -1,11 +1,5 @@
 <div align="center"><img src="https://raw.githubusercontent.com/QiShaoXuan/css_tricks/master/logo.png"></div>
 
-## 关于 About
-
-- 总结一些常用的 CSS 样式
-- 记录一些 CSS 的新属性和一点奇技淫巧
-- 在“动”部分下有些动画并不是 CSS 效果，因为没有地方放置，所以暂时寄存在这里
-
 尽量少说废话，代码简单易用，方便复制
 
 > talk is cheap show me the code
